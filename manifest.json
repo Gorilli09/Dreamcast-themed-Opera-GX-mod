@@ -28,6 +28,46 @@
           "path": "icons/icon_PAL.png"
         }
       ],
+      "browser_sounds": [
+        {
+          "id": "0",
+          "name": "Dreamcast BIOS",
+          "sounds": {
+            "CLICK": [ "sounds/BIOS/CONFIRMATION.wav" ],
+            "HOVER": [ "sounds/BIOS/SELECT.wav" ],
+            "HOVER_UP": [ "sounds/BIOS/CONFIRMATION.wav" ],
+            "IMPORTANT_CLICK": [ "sounds/BIOS/DISC_CHECK.wav" ],
+            "LIMITER_OFF": [ "sound/BIOS/BACK.wav" ],
+            "LIMITER_ON": [ "sound/BIOS/CONFIRMATION.wav" ],
+            "SWITCH_TOGGLE": [ "sound/BIOS/CONFIRMATION.wav" ],
+            "TAB_CLOSE": [ "sound/BIOS/BACK.wav" ],
+            "TAB_INSERT": [ "sound/BIOS/CONFIRMATION.wav" ],
+            "TAB_SLASH": [ "sound/BIOS/VMU_ERROR.wav" ]
+          }
+        }
+      ],
+      "splash_screen": [
+        {
+          "id": "splash_screen_01",
+          "name": "Dreamcast startup",
+          "path": "splash/BIOS/Dreamcast startup.mp4"
+        },
+        {
+          "id": "splash_screen_02",
+          "name": "Dreamcast startup (Europe)",
+          "path": "splash/BIOS/Dreamcast startup (Europe).mp4"
+        },
+        {
+          "id": "splash_screen_03",
+          "name": "Dreamcast startup (development kit)",
+          "path": "splash/BIOS/Dreamcast startup (development kit).mp4"
+        },
+        {
+          "id": "splash_screen_04",
+          "name": "Dreamcast startup (development kit) (Europe)",
+          "path": "splash/BIOS/Dreamcast startup (development kit) (Europe).mp4"
+        }
+      ],
       "theme": [
         {
           "id": "0",
@@ -112,6 +152,20 @@
               "l": 50
             }
           }
+        }
+      ],
+      "wallpaper": [
+        {
+          "dark": {
+            "first_frame": "wallpaper/BIOS/Background (alt).png",
+            "image": "wallpaper/BIOS/Background (alt).png"
+          },
+          "id": "0",
+          "light": {
+            "first_frame": "wallpaper/BIOS/Background.png",
+            "image": "wallpaper/BIOS/Background.mp4"
+          },
+          "name": "Dreamcast BIOS"
         }
       ]
     },

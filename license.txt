@@ -1,76 +1,19 @@
-        
-                 ____                          _______   __ 
-                / __ \                        / ____\ \ / /
-               | |  | |_ __   ___ _ __ __ _  | |  __ \ V / 
-               | |  | | '_ \ / _ \ '__/ _` | | | |_ | > <  
-               | |__| | |_) |  __/ | | (_| | | |__| |/ . \ 
-                \____/| .__/ \___|_|  \__,_|  \_____/_/ \_\
-                      | |                                  
-                      |_|                                  
-      
-                                presents
-      
-      
-       __  __           _   _______                   _       _       
-      |  \/  |         | | |__   __|                 | |     | |      
-      | \  / | ___   __| |    | | ___ _ __ ___  _ __ | | __ _| |_ ___ 
-      | |\/| |/ _ \ / _` |    | |/ _ \ '_ ` _ \| '_ \| |/ _` | __/ _ \
-      | |  | | (_) | (_| |    | |  __/ | | | | | |_) | | (_| | ||  __/
-      |_|  |_|\___/ \__,_|    |_|\___|_| |_| |_| .__/|_|\__,_|\__\___|
-                                               | |                    
-                                               |_|                    
-      
-      
- 
-                                           
- ____                  _     _   _         
-|    \ ___ ___ ___ ___|_|___| |_|_|___ ___ 
-|  |  | -_|_ -|  _|  _| | . |  _| | . |   |
-|____/|___|___|___|_| |_|  _|_| |_|___|_|_|
-                        |_|                
-...............................................................................
+Dreamcast-themed Opera GX mod (Version 1.0)
 
-Hey there, welcome to the mod creation template based on the Purple Haze theme
-from  Opera GX. This  template  includes the original keyboard sounds, browser
-sounds, and music from Opera GX, as well as light and dark wallpapers that are
-based on the original Purple Haze wallpapers but have added information at the
-bottom to set them apart. There is also an example of animated wallpaper.
+Description:
+Welcome to my first mod! This is centered around the Sega Dreamcast. It contains the startup, background, and sounds from the system BIOS, and includes music from Sonic Adventure.
+In case you didn't know, the Dreamcast is capable of using the internet. The console has a modem on the side of the console that you can hook-up and connect to. The console also had a web browser game disc, and an official Keyboard & Mouse that you can hook up to the controller ports on the console. Sega also released a separate broadband adapter, which means that the modem on the console is removable and can be swapped out with the broadband adapter. However, the broadband adapter is not compatible with modem-compatible games.
 
-We've also included a simple web  modding  CSS that changes the text color and
-background  color on web pages in the opera.com domain. This will show you how
-to read colors from the browser and apply them to web pages. And lastly, we've
-included  basic shaders  that  demonstrate  how  to  use  animated and  static
-versions. Have fun creating your mods!
-                              
- _____           _ _ _       
-|     |___ ___ _| |_| |_ ___ 
-|   --|  _| -_| . | |  _|_ -|
-|_____|_| |___|___|_|_| |___|
-...............................................................................
-
+Credits:
 Dreamcast and the Dreamcast logo belongs to Sega.
-                                                              
- __    _                         
-|  |  |_|___ ___ ___ ___ ___ ___ 
-|  |__| |  _| -_|   |  _| -_|_ -|
-|_____|_|___|___|_|_|___|___|___|
-...............................................................................
-               
-Me. Gorilli09
-                       
- _____       _         
-|  |  |_ _ _| |___ ___ 
-|    -| | | . | . |_ -|
-|__|__|___|___|___|___|
-...............................................................................
-                       
-The Dreamcast team
 
- _____ _       ___ ___ 
-|   __| |_ _ _|  _|  _|
-|__   |  _| | |  _|  _|
-|_____|_| |___|_| |_|  
-...............................................................................
-                       
-Nothing else to add.
+Kudos:
+The Dreamcast team.
 
+To-do:
+* Add in mobile support.
+* Update splash screens to higher-quality.
+* Add in animated higher-quality BIOS backgrounds.
+* Add in Dreamcast logo font.
+* Add in images, sprites, and sounds from the Dreamcast Web Browser.
+* Add more music from other games.
