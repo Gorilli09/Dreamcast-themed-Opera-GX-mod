@@ -1,0 +1,1 @@
+Add in background from the BIOS for light mode and the alternate BIOS background for dark mode.
