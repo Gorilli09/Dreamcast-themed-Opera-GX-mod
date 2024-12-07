@@ -28,21 +28,53 @@
           "path": "icons/icon_PAL.png"
         }
       ],
+      "background_music": [
+        {
+          "id": "0",
+          "name": "Sonic Adventure",
+          "tracks": [
+            "music/Sonic Adventure/Invincible ... No Fear!.wav"
+          ]
+        }
+      ],
       "browser_sounds": [
         {
           "id": "0",
           "name": "Dreamcast BIOS",
           "sounds": {
-            "CLICK": [ "sounds/BIOS/CONFIRMATION.wav" ],
-            "HOVER": [ "sounds/BIOS/SELECT.wav" ],
-            "HOVER_UP": [ "sounds/BIOS/CONFIRMATION.wav" ],
-            "IMPORTANT_CLICK": [ "sounds/BIOS/DISC_CHECK.wav" ],
-            "LIMITER_OFF": [ "sound/BIOS/BACK.wav" ],
-            "LIMITER_ON": [ "sound/BIOS/CONFIRMATION.wav" ],
-            "SWITCH_TOGGLE": [ "sound/BIOS/CONFIRMATION.wav" ],
-            "TAB_CLOSE": [ "sound/BIOS/BACK.wav" ],
-            "TAB_INSERT": [ "sound/BIOS/CONFIRMATION.wav" ],
-            "TAB_SLASH": [ "sound/BIOS/VMU_ERROR.wav" ]
+            "CLICK": [
+              "sounds/BIOS/CONFIRMATION.wav"
+            ],
+            "HOVER": [
+              "sounds/BIOS/SELECT.wav"
+            ],
+            "HOVER_UP": [
+              "sounds/BIOS/CONFIRMATION.wav"
+            ],
+            "IMPORTANT_CLICK": [
+              "sounds/BIOS/DISC_CHECK.wav"
+            ],
+            "LEVEL_UPGRADE": [
+              "sounds/BIOS/DISC_CHECK.wav"
+            ],
+            "LIMITER_OFF": [
+              "sounds/BIOS/BACK.wav"
+            ],
+            "LIMITER_ON": [
+              "sounds/BIOS/CONFIRMATION.wav"
+            ],
+            "SWITCH_TOGGLE": [
+              "sounds/BIOS/CONFIRMATION.wav"
+            ],
+            "TAB_CLOSE": [
+              "sounds/BIOS/BACK.wav"
+            ],
+            "TAB_INSERT": [
+              "sounds/BIOS/CONFIRMATION.wav"
+            ],
+            "TAB_SLASH": [
+              "sounds/BIOS/VMU_ERROR.wav"
+            ]
           }
         }
       ],
@@ -157,15 +189,32 @@
       "wallpaper": [
         {
           "dark": {
-            "first_frame": "wallpaper/BIOS/Background (alt).png",
-            "image": "wallpaper/BIOS/Background (alt).png"
+            "image": "wallpaper/BIOS/Background (alt).png",
+            "text_color": "#FFFFFF",
+            "text_shadow": "#757575"
           },
           "id": "0",
           "light": {
             "first_frame": "wallpaper/BIOS/Background.png",
-            "image": "wallpaper/BIOS/Background.mp4"
+            "image": "wallpaper/BIOS/Background.mp4",
+            "text_color": "#FFFFFF",
+            "text_shadow": "#0B000E"
           },
           "name": "Dreamcast BIOS"
+        },
+        {
+          "dark": {
+            "image": "wallpaper/Sonic Adventure/SP_BG_E.JPG",
+            "text_color": "#FFFFFF",
+            "text_shadow": "#757575"
+          },
+          "id": "1",
+          "light": {
+            "image": "wallpaper/Sonic Adventure/SP_BG_E.JPG",
+            "text_color": "#FFFFFF",
+            "text_shadow": "#0B000E"
+          },
+          "name": "Sonic Adventure"
         }
       ]
     },

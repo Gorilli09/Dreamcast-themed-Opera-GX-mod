@@ -1,11 +1,11 @@
 Dreamcast-themed Opera GX mod (Version 1.0)
 
 Description:
-Welcome to my first mod! This is centered around the Sega Dreamcast. It contains the startup, background, and sounds from the system BIOS, and includes music from Sonic Adventure.
+Welcome to my first mod! This is centered around the Sega Dreamcast. It contains the startup, background, and sounds from the system BIOS, and includes one song from Sonic Adventure.
 In case you didn't know, the Dreamcast is capable of using the internet. The console has a modem on the side of the console that you can hook-up and connect to. The console also had a web browser game disc, and an official Keyboard & Mouse that you can hook up to the controller ports on the console. Sega also released a separate broadband adapter, which means that the modem on the console is removable and can be swapped out with the broadband adapter. However, the broadband adapter is not compatible with modem-compatible games.
 
 Credits:
-Dreamcast and the Dreamcast logo belongs to Sega.
+Sonic Adventure, Dreamcast, and the Dreamcast logo belong to Sega.
 
 Kudos:
 The Dreamcast team.
@@ -16,4 +16,4 @@ To-do:
 * Add in animated higher-quality BIOS backgrounds.
 * Add in Dreamcast logo font.
 * Add in images, sprites, and sounds from the Dreamcast Web Browser.
-* Add more music from other games.
+* Add more music and wallpaper from Dreamcast games.
