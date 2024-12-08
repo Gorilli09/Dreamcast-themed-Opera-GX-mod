@@ -201,20 +201,6 @@
             "text_shadow": "#0B000E"
           },
           "name": "Dreamcast BIOS"
-        },
-        {
-          "dark": {
-            "image": "wallpaper/Sonic Adventure/SP_BG_E.JPG",
-            "text_color": "#FFFFFF",
-            "text_shadow": "#757575"
-          },
-          "id": "1",
-          "light": {
-            "image": "wallpaper/Sonic Adventure/SP_BG_E.JPG",
-            "text_color": "#FFFFFF",
-            "text_shadow": "#0B000E"
-          },
-          "name": "Sonic Adventure"
         }
       ]
     },
