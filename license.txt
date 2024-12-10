@@ -14,6 +14,5 @@ To-do:
 * Add in mobile support.
 * Update splash screens to higher-quality.
 * Add in animated higher-quality BIOS backgrounds.
-* Add in Dreamcast logo font.
 * Add in images, sprites, and sounds from the Dreamcast Web Browser.
 * Add more music and wallpaper from Dreamcast games.

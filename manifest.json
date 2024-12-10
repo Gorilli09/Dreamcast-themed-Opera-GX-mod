@@ -5,7 +5,7 @@
     "name": "Gorilli09"
   },
   "icons": {
-    "512": "icons/icon_JP.png"
+    "512": "app_icons/icon_JP.png"
   },
   "manifest_version": 3,
   "mod": {
@@ -13,19 +13,19 @@
     "payload": {
       "app_icon": [
         {
-          "id": "app_icon_100",
+          "id": "app_icon_01",
           "name": "Dreamcast Swirl (Japan)",
-          "path": "icons/icon_JP.png"
+          "path": "app_icons/icon_JP.png"
         },
         {
-          "id": "app_icon_101",
+          "id": "app_icon_02",
           "name": "Dreamcast Swirl (North America)",
-          "path": "icons/icon_NA.png"
+          "path": "app_icons/icon_NA.png"
         },
         {
-          "id": "app_icon_102",
+          "id": "app_icon_03",
           "name": "Dreamcast Swirl (Europe)",
-          "path": "icons/icon_PAL.png"
+          "path": "app_icons/icon_PAL.png"
         }
       ],
       "background_music": [
