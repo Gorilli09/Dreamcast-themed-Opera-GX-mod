@@ -78,6 +78,20 @@
           }
         }
       ],
+      "fonts": [
+        {
+          "header": {
+            "name": "NiseSegaDreamcast",
+            "variants": [
+              {
+                "path": "font/NiseSegaDreamcast.ttf"
+              }
+            ]
+          },
+          "id": "fonts_01",
+          "name": "Dreamcast"
+        }
+      ],
       "splash_screen": [
         {
           "id": "splash_screen_01",
