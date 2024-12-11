@@ -1,11 +1,11 @@
 {
-  "name": "Dreamcast",
+  "name": "Dreamcast (Gorilli09)",
   "description": "Surf the web like it's '98!",
   "developer": {
     "name": "Gorilli09"
   },
   "icons": {
-    "512": "app_icons/icon_JP.png"
+    "512": "icon_512.png"
   },
   "manifest_version": 3,
   "mod": {
@@ -15,17 +15,17 @@
         {
           "id": "app_icon_01",
           "name": "Dreamcast Swirl (Japan)",
-          "path": "app_icons/icon_JP.png"
+          "path": "app_icon/app_icon1.png"
         },
         {
           "id": "app_icon_02",
           "name": "Dreamcast Swirl (North America)",
-          "path": "app_icons/icon_NA.png"
+          "path": "app_icon/app_icon2.png"
         },
         {
           "id": "app_icon_03",
           "name": "Dreamcast Swirl (Europe)",
-          "path": "app_icons/icon_PAL.png"
+          "path": "app_icon/app_icon3.png"
         }
       ],
       "background_music": [
